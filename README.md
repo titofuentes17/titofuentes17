@@ -60,27 +60,19 @@
 
 ---
 
-### 📊 Estadísticas en GitHub
+### 📊 Lenguajes y Stats
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=titofuentes17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titofuentes17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=titofuentes17&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
 ---
 
-### 🐍 Contribuciones
+### 📅 Contribuciones
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/titofuentes17/titofuentes17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/titofuentes17/titofuentes17/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/titofuentes17/titofuentes17/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://ghchart.rshah.org/58A6FF/titofuentes17" alt="Calendario de contribuciones de titofuentes17" width="100%" />
 </div>
 
 <!-- PIE DE PÁGINA ANIMADO -->
