@@ -20,7 +20,7 @@
   <a href="https://github.com/titofuentes17?tab=followers">
     <img src="https://img.shields.io/github/followers/titofuentes17?label=Seguidores&style=for-the-badge&color=238636&logo=github" alt="Seguidores" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/jaime-fuentes-94a4b5334/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -28,7 +28,7 @@
 <br/>
 
 <!-- SOBRE MÍ CON GIF LATERAL -->
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+
 
 ### ⚡ Sobre mí
 
@@ -63,8 +63,8 @@
 ### 📊 Lenguajes y Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=titofuentes17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titofuentes17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=titofuentes17&theme=tokyonight" alt="GitHub Stats" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=titofuentes17&theme=tokyonight" alt="Top Languages" />
 </div>
 
 
