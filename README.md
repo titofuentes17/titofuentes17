@@ -67,13 +67,6 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titofuentes17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
----
-
-### 📅 Contribuciones
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/titofuentes17" alt="Calendario de contribuciones de titofuentes17" width="100%" />
-</div>
 
 <!-- PIE DE PÁGINA ANIMADO -->
 <div align="center">
